@@ -8,11 +8,15 @@
       "name": "Noah W.",
       "role": "Founder",
       "homepage": "https://www.ausizone.de"
+    },
+    {
+      "name": "Dave B.",
+      "role": "Co Founder",
+      "homepage": "https://go.dxve.de"
     }
   ],
   "license": ["GPL-3.0-or-later"],
   "minimum-stability": "dev",
   "require": {
-
   }
 }
