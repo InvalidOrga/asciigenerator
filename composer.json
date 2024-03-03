@@ -1,0 +1,18 @@
+{
+  "name": "austriannoah/asciigenerator",
+  "description": "ASCII Generator made by EyNoah",
+  "version": "v1.0.0",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Noah W.",
+      "role": "Founder",
+      "homepage": "https://www.ausizone.de"
+    }
+  ],
+  "license": ["GPL-3.0-or-later"],
+  "minimum-stability": "dev",
+  "require": {
+
+  }
+}
